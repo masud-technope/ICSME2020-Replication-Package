@@ -1,5 +1,14 @@
+# Why Are Some Bugs Non-Reproducible? An Empirical Investigation using Data Fusion
+
+
+Accepted Paper at ICSME 2020
+-----------------------------
+```
 Why Are Some Bugs Non-Reproducible? An Empirical Investigation using Data Fusion
-----------------------------------------------------------------------------------
+
+Mohammad Masudur Rahman, Foutse Khomh, and Marco Castelluccio
+```
+
 
 **Abstract**: Software developers attempt to reproduce software bugs to understand their erroneous 
 behaviours and to fix them. Unfortunately, they often fail to reproduce (or fix) them, which leads to 
@@ -36,7 +45,7 @@ Materials Included
 - LICENSE
 
 
-
+Please contact **Masud Rahman (masud.rahman@dal.ca)** for details.
 
 
 
