@@ -3,12 +3,16 @@
 
 Accepted Paper at ICSME 2020
 -----------------------------
+**TCSE Distinguished Paper Award 2020**
 ```
-Why Are Some Bugs Non-Reproducible? An Empirical Investigation using Data Fusion
+Why are Some Bugs Non-Reproducible? An Empirical Investigation using Data Fusion
 
 Mohammad Masudur Rahman, Foutse Khomh, and Marco Castelluccio
 ```
+![Distinguished Paper Award Nomination](http://homepage.usask.ca/~masud.rahman/nlp2api/img/dpa-150.png) 
 
+**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](https://web.cs.dal.ca/~masud/papers/masud-ICSME2020-pp.pdf)
 
 **Abstract**: Software developers attempt to reproduce software bugs to understand their erroneous 
 behaviours and to fix them. Unfortunately, they often fail to reproduce (or fix) them, which leads to 
