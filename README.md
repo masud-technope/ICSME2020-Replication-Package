@@ -9,9 +9,9 @@ Why are Some Bugs Non-Reproducible? An Empirical Investigation using Data Fusion
 
 Mohammad Masudur Rahman, Foutse Khomh, and Marco Castelluccio
 ```
-![Distinguished Paper Award Nomination](http://homepage.usask.ca/~masud.rahman/nlp2api/img/dpa-150.png) 
+![Distinguished Paper Award Nomination](https://web.cs.dal.ca/~masud/nlp2api/img/dpa-150.png) 
 
-**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+**Download this paper:**  [<img src="https://web.cs.dal.ca/~masud/img/pdf.png"
      alt="PDF" heigh="16px" width="16px" />](https://web.cs.dal.ca/~masud/papers/masud-ICSME2020-pp.pdf)
 
 **Abstract**: Software developers attempt to reproduce software bugs to understand their erroneous 
