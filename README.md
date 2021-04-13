@@ -34,14 +34,14 @@ Materials Included
   - Raw responses from the developers
   - Agreed + Disagreed responses
 - **```Machine Learning Model```** contains all the artifacts related to machine learning-based classification & model interpretation
-  - **Dataset**: Contains the 17 attibutes (12 structural + 2 textual + 3 sentiment) for 1,109 bug reports.
-  - **SelectedBugs**: Bug IDs of 1109 bugs from Firefox Core and Eclipse JDT
-  - **XGBoost**: Implemented classifier & configuration
-  - **Model Interpretation**: Jupyter notebook containing the code to generate all the interpretation diagram using **SHAP** framework
-  - *Model Configurations*: Naive Bayes, Logistic Regression, J48, and RandomForest used the default configurations from Weka 3.9.4
-- **```Manual Analysis```** contains all artifacts generated during manual analysis
-  - *Eclipse-Firefox-Manual-Analysis* : Shows whether the connected bug reports contain stack traces, fixes, attachments, and other items
-  - *Manual-Analysis-Workbook* : Raw data from the manual analysis.
+  - **Dataset**: Contains the 17 features (12 structural + 2 textual + 3 sentiment) for 1,109 bug reports
+  - **SelectedBugs**: Bug IDs of 1,109 bugs from Firefox Core and Eclipse JDT
+  - **XGBoost**: Implemented XGBoost classifier & model configurations
+  - **Model Interpretation**: Jupyter notebook containing the code to generate all the interpretation diagrams using **SHAP** framework
+  - **Model Configurations**: Naive Bayes, Logistic Regression, J48, and RandomForest used the default configurations from **Weka 3.9.4**
+- **```Manual Analysis```** contains all the artifacts generated during our manual analysis
+  - **Eclipse-Firefox-Manual-Analysis**: Shows whether the connected bug reports contain stack traces, fixes, attachments, and other structured items
+  - **Manual-Analysis-Workbook** : Raw data from our manual analysis
 - README
 - LICENSE
 
