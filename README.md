@@ -9,6 +9,7 @@
 	Fourth, we explain the differences between reproducible and non-reproducible bug reports by systematically interpreting multiple machine learning models that classify these reports with high accuracy. We found that links to existing bug reports might help improve the reproducibility of a reported bug.
 	Fifth, we further demonstrate how 93 prior bugs connected to 71 non-reproducible bugs from our dataset can offer complementary information (e.g., attachments, screenshots, program flows).
 
+
 Subject Systems
 ---------------------------
 - Mozilla Firefox (250)
@@ -32,11 +33,16 @@ Materials Included
 
 Accepted Paper at ICSME 2020
 -----------------------------
+**TCSE Distinguished Paper Award 2020**
 ```
-Why Are Some Bugs Non-Reproducible? An Empirical Investigation using Data Fusion
+Why are Some Bugs Non-Reproducible? An Empirical Investigation using Data Fusion
 
 Mohammad Masudur Rahman, Foutse Khomh, and Marco Castelluccio
 ```
+![Distinguished Paper Award Nomination](https://web.cs.dal.ca/~masud/nlp2api/img/dpa-150.png) 
+
+**Download this paper:**  [<img src="https://web.cs.dal.ca/~masud/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](https://web.cs.dal.ca/~masud/papers/masud-ICSME2020-pp.pdf)
 
 
 Please contact **Masud Rahman (masud.rahman@dal.ca)** for details.
