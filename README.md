@@ -59,6 +59,17 @@ Mohammad Masudur Rahman, Foutse Khomh, and Marco Castelluccio
 **Download this paper:**  [<img src="https://web.cs.dal.ca/~masud/img/pdf.png"
      alt="PDF" heigh="16px" width="16px" />](https://web.cs.dal.ca/~masud/papers/masud-ICSME2020-pp.pdf)
 
+Please cite our work as
+------------------------------------------
+```
+@INPROCEEDINGS{icsme2020masud,
+	author={Rahman, M. M. and Khomh, F. and Castelluccio, M.},
+	booktitle={Proc. ICSME},
+	title={Why are Some Bugs Non-Reproducible? An Empirical Investigation using Data Fusion},
+	year={2020},
+	pages={605-616}
+}
+```
 
 Please contact **Masud Rahman (masud.rahman@dal.ca)** for details.
 
