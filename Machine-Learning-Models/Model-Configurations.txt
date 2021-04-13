@@ -1,0 +1,13 @@
+
+Models generated using Weka (Default configurations)
+====================================================
+Naive Bayes
+Logistic Regression
+J48
+RandomForest.
+
+
+Models generated using Python library
+=====================================
+XGBoost.
+Details: /XGBoost
